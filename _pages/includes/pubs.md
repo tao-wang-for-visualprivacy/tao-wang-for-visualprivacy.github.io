@@ -126,7 +126,7 @@ Accepted.
 <span class="conf">[2024 TBIOM]</span>, \[[code](https://github.com/ethz-spylab/agentdojo)\] \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. 
 
-- The paper proposes an identity hider, which can prevents a human from observing the identity but allows a machine to extract the identity.
+- The paper proposes an identity hider, which can prevents humans from observing the identity but allows machines to extract the identity.
 
 </div>
 </div>
