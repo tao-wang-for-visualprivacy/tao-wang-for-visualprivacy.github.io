@@ -131,7 +131,7 @@ Accepted.
 
 
 
-<div class='paper-box' style="height: 200px;"><div class='paper-box-image'><div><div class="badge">2024 CSUR</div><img src='images/2024CSUR.png' alt="sym"  style="width: 100%; height: 50%;"></div></div>
+<div class='paper-box' style="height: 200px;"><div class='paper-box-image'><div><div class="badge">2024 CSUR</div><img src='images/2024CSUR.png' alt="sym"  style="width: 100%; height: 90%;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626) \\
