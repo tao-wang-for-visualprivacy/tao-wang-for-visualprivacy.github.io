@@ -98,7 +98,7 @@ Accepted.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 MM</div><img src='images/2024MM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="height: 300px;"><div class='paper-box-image'><div><div class="badge">2024 MM</div><img src='images/2024MM.png' alt="sym" width="100%" height="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704) \\
