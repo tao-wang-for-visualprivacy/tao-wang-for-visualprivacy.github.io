@@ -8,7 +8,7 @@
 # 💬 Services
 - Journal Reviewer: 
     - IEEE Transactions on Knowledge and Data Engineering
-- Conference Reviewer: 2024MM, 2025ICLR, 2025KDD
+- Conference Reviewer: MM, ICLR, KDD
 
 
 <!-- # 💻 Internships
