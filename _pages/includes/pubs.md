@@ -89,7 +89,7 @@ Accepted.
 <div class='paper-box-text' markdown="1">
 
 [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889) \\
-<span class="conf">[2025 IEEE TIFS]</span>,  \[[code](https://github.com/daizigege/AIDPro)\] \\
+<span class="conf">[2025 IEEE TIFS]</span>, CCF A,  \[[code](https://github.com/daizigege/AIDPro)\] \\
 <span class="me">Tao Wang</span>, Wenying Weng<span class="equal">*</span>, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
 - The paper proposes AIDPro, which can embed  messages in a robust way for image authentication  while  altering identity for privacy protection.  
@@ -105,7 +105,7 @@ Accepted.
 <div class='paper-box-text' markdown="1">
 
 [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704) \\
-<span class="conf">[2024 ACM MM]</span>,  \[[code](https://github.com/daizigege/CanFG)\] \\
+<span class="conf">[2024 ACM MM]</span>, CCF A, \[[code](https://github.com/daizigege/CanFG)\] \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Xiangli Xiao, Lin Yuan, Zhihua Xia, Jian Weng  
 
 - The paper proposes CanFG, which can embed  virtual identity  for supporting cancelable biometrics  while  removing physical identity for privacy protection.
@@ -138,7 +138,7 @@ Accepted.
 <div class='paper-box-text' markdown="1">
 
 [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626) \\
-<span class="conf">[2024 CSUR]</span>
+<span class="conf">[2024 CSUR]</span>, IF: 23.8
 \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng
 -  This survey reviews the security and privacy on generative data in AIGC, particularly for the first time analyzing them
