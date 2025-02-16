@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- <sup>&#x1F393;</sup>  *2024.04 - now   *, Nanjing University of Aeronautics and Astronautics, Cyberspace Security, China.
+- <sup>&#x1F393;</sup>  *2024.04 - now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*, Nanjing University of Aeronautics and Astronautics, Cyberspace Security, China.
 - <sup>&#x1F393;</sup>  *2021.09 - 2024.04*, Nanjing University of Aeronautics and Astronautics, Cyberspace Security, China.
 - <sup>&#x1F393;</sup>  *2017.09 - 2021.06*, Undergraduate, Anhui Normal University, Computer Science and Technology, China.
 
