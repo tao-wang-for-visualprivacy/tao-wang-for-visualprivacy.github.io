@@ -138,7 +138,7 @@ Accepted.
 <div class='paper-box-text' markdown="1">
 
 [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626) \\
-<span class="conf">[2024 CSUR]</span>, IF: 23.8, SCI一区TOP
+<span class="conf">[2024 CSUR]</span>, IF: 23.8, SCI一区TOP,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\] 
 \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng
 -  This survey reviews the security and privacy on generative data in AIGC, particularly for the first time analyzing them
