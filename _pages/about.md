@@ -24,7 +24,7 @@ redirect_from:
 
 <footer> 
   <hr>
-<p>Last updated:  2025/2/15. Template <a href="https://github.com/zj-jayzhang/zj-jayzhang.github.io">   webpage.</a></p>
+<p>Last updated:  2025/2/16. Template <a href="https://github.com/zj-jayzhang/zj-jayzhang.github.io">   webpage.</a></p>
 
 </footer>
 
