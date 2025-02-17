@@ -1,7 +1,7 @@
 
 # 🧐 About Me
 
-Hi there! I am a 2-year PhD student majoring in Cyberspace Security at Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. [Yushu Zhang](https://yushuzhang.cn/).
+Hi there! I am a  PhD student majoring in Cyberspace Security at Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. [Yushu Zhang](https://yushuzhang.cn/).
 <!--I completed my master's degree in [Software Engineering at Zhejiang University](http://www.cst.zju.edu.cn/cstenglish/main.htm) in March 2023, advised by Prof. [Chao Wu](https://scholar.google.com.hk/citations?user=gpTPt58AAAAJ&hl=zh-CN).
 Before that, I received my Bachelor's degree at Hainan University in July 2020. -->
 
